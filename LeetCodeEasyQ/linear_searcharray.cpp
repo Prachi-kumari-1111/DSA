@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// update on 1nov
 int main() {
     int n, key;
     cout << "Enter size of array: ";
